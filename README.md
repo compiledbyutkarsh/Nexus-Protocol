@@ -1,4 +1,4 @@
-# nexus-protocol 🔗
+# Nexus-Protocol 🔗
 
 A production-grade custom binary network protocol written from scratch in C. No libraries, no abstractions — just raw sockets, a handcrafted wire format, and a full connection lifecycle built the way it should be.
 
@@ -19,7 +19,7 @@ Built this to understand what actually happens under the hood when two machines 
 
 ## Project structure
 
-    nexus-protocol/
+    Nexus-Protocol/
     ├── include/
     │   └── protocol.h          # types, constants, full API
     ├── src/
